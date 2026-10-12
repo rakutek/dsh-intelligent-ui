@@ -42,6 +42,8 @@
     "icon.svg",
     "cordis.patch.yml",
     "README.md",
+    "README.ja.md",
+    "README.zh.md",
     "LICENSE",
     "THIRD_PARTY_NOTICES.md"
   ],
