@@ -1,0 +1,5 @@
+- insert:
+    - id: inline-ui
+      name: '@rakutek/dsh-intelligent-ui'
+      config:
+        injectGuidance: true
