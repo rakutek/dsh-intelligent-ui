@@ -14,13 +14,13 @@ English | [日本語](README.ja.md) | [中文](README.zh.md)
 
 ## 📸 Screenshots
 
-| 🧮 Interactive Pricing Simulator | ⚖️ Interactive Comparison Card |
+| 🧮 Interactive Cost Simulator | ⚖️ Interactive Tech Stack Comparison |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/rakutek/dsh-intelligent-ui/main/docs/simulator.png" alt="Pricing simulator with sliders, KPI tiles, and a bar chart" width="440"> | <img src="https://raw.githubusercontent.com/rakutek/dsh-intelligent-ui/main/docs/comparison.png" alt="Laptop comparison with a focus switch, a recommendation card, a table, and bars" width="440"> |
+| <img src="https://raw.githubusercontent.com/rakutek/dsh-intelligent-ui/main/docs/simulator.png" alt="LLM API cost estimator with sliders, KPI tiles, and a bar chart" width="440"> | <img src="https://raw.githubusercontent.com/rakutek/dsh-intelligent-ui/main/docs/comparison.png" alt="Database stack comparison with a deployment switch, a recommendation card, a table, and score bars" width="440"> |
 
 <div align="center">
   <p><strong>🎨 Themed Mermaid Diagrams with Rounded Nodes & Semantic Role Colors</strong></p>
-  <img src="https://raw.githubusercontent.com/rakutek/dsh-intelligent-ui/main/docs/diagram.png" alt="Mermaid flowchart of the Maillard reaction with role colors and title-and-detail labels" width="680">
+  <img src="https://raw.githubusercontent.com/rakutek/dsh-intelligent-ui/main/docs/diagram.png" alt="Mermaid flowchart of an autonomous canary deployment pipeline with role colors and title-and-detail labels" width="680">
 </div>
 
 ---

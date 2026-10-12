@@ -16,13 +16,13 @@
 
 ## 📸 スクリーンショット
 
-| 🧮 リアルタイム料金シミュレーター | ⚖️ インタラクティブ比較カード |
+| 🧮 リアルタイムコスト試算シミュレーター | ⚖️ インタラクティブ技術選定・比較カード |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/rakutek/dsh-intelligent-ui/main/docs/simulator.png" alt="スライダーとKPIタイル、棒グラフを備えた料金シミュレーター" width="440"> | <img src="https://raw.githubusercontent.com/rakutek/dsh-intelligent-ui/main/docs/comparison.png" alt="フォーカス切り替え、推奨カード、スペック表、バーを備えたノートPC比較" width="440"> |
+| <img src="https://raw.githubusercontent.com/rakutek/dsh-intelligent-ui/main/docs/simulator-ja.png" alt="スライダーとKPIタイル、棒グラフを備えたLLM API料金シミュレーター" width="440"> | <img src="https://raw.githubusercontent.com/rakutek/dsh-intelligent-ui/main/docs/comparison-ja.png" alt="要件切り替え、推奨スタック、スペック表、スコアバーを備えたデータベース比較" width="440"> |
 
 <div align="center">
   <p><strong>🎨 角丸ノードとテーマ調和カラーを備えた Mermaid フローチャート</strong></p>
-  <img src="https://raw.githubusercontent.com/rakutek/dsh-intelligent-ui/main/docs/diagram.png" alt="メイラード反応のMermaidフローチャート（セマンティック配色と2段組ラベル付き）" width="680">
+  <img src="https://raw.githubusercontent.com/rakutek/dsh-intelligent-ui/main/docs/diagram-ja.png" alt="カナリアデプロイと自動ロールバックのMermaidフローチャート（セマンティック配色と2段組ラベル付き）" width="680">
 </div>
 
 ---

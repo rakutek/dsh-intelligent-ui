@@ -16,13 +16,13 @@
 
 ## 📸 效果展示
 
-| 🧮 实时费用计算器 | ⚖️ 动态产品对比卡片 |
+| 🧮 实时成本测算模拟器 | ⚖️ 动态技术选型对比卡片 |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/rakutek/dsh-intelligent-ui/main/docs/simulator.png" alt="带有滑块、KPI 卡片与柱状图的费用计算器" width="440"> | <img src="https://raw.githubusercontent.com/rakutek/dsh-intelligent-ui/main/docs/comparison.png" alt="带有焦点切换、推荐卡片、规格表与进度条的笔记本电脑对比" width="440"> |
+| <img src="https://raw.githubusercontent.com/rakutek/dsh-intelligent-ui/main/docs/simulator.png" alt="带有滑块、KPI 卡片与柱状图的 LLM API 费用测算器" width="440"> | <img src="https://raw.githubusercontent.com/rakutek/dsh-intelligent-ui/main/docs/comparison.png" alt="带有部署选项切换、推荐卡片、规格表与得分条的数据库对比" width="440"> |
 
 <div align="center">
   <p><strong>🎨 圆角卡片与主题配色自适应的 Mermaid 流程图</strong></p>
-  <img src="https://raw.githubusercontent.com/rakutek/dsh-intelligent-ui/main/docs/diagram.png" alt="美拉德反应流程图（语义角色配色与标题/细节双层标签）" width="680">
+  <img src="https://raw.githubusercontent.com/rakutek/dsh-intelligent-ui/main/docs/diagram.png" alt="带自动回滚的自主金丝雀部署流程图（语义角色配色与标题/细节双层标签）" width="680">
 </div>
 
 ---
