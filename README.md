@@ -8,6 +8,14 @@ A [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) plugin tha
 - **Follow-ups**: a button can send the current values back as your next message.
 - **Plain questions stay plain**: a short factual question is answered in text, with no UI.
 
+## Screenshots
+
+| Simulator | Comparison |
+|---|---|
+| <img src="https://raw.githubusercontent.com/rakutek/dsh-intelligent-ui/main/docs/simulator.png" alt="Pricing simulator with sliders, KPI tiles, and a bar chart" width="420"> | <img src="https://raw.githubusercontent.com/rakutek/dsh-intelligent-ui/main/docs/comparison.png" alt="Laptop comparison with a focus switch, a recommendation card, a table, and bars" width="420"> |
+
+<img src="https://raw.githubusercontent.com/rakutek/dsh-intelligent-ui/main/docs/diagram.png" alt="Mermaid flowchart of the Maillard reaction with role colors and title-and-detail labels" width="420">
+
 ## Install
 
 Requires DeepSeek Harness **0.2.x** (Desktop or `dsh web`).
